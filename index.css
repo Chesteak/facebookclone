@@ -1,9 +1,3 @@
-.en-yeni {
-  position: sticky;
-  overflow: visible;
-  margin-top: 4rem;
-}
-
 .sag-icon-bar {
     position:fixed;top:0%; ;width:1364px;font-family: 'Roboto', 'sans-serif';z-index:99;
     border: 1px solid black ;
